@@ -42,6 +42,7 @@ $ serve
 ```
 
 2. Run the Cucumber test with the following command
+
 ``` shell
 $ cucumber.js features -r features/step_definitions
 ```
