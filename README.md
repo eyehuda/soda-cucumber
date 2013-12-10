@@ -18,18 +18,19 @@ To use CucumberJS and Soda together you need to install Soda, Selenium-launcher 
 
 Dependences can be installed with:
 
-''' shell
+``` shell
 $ npm install
-'''
+```
 
 OR
 
 with:
-''' shell
+
+``` shell
 $ npm install cucumber
 $ npm install soda
 $ npm install selenium-launcher
-'''
+```
 
 Run
 ---
