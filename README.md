@@ -1,18 +1,18 @@
-soda-cucumber
-=============
--Sode is a Selenium Node Adapter. It is a client for NodeJS for acceptane testing.
--Cucumber is a behaviour driven development tool.
--We can use Soda and Cucumber.js together to create cucumber acceptance tests for web testing in Java Script.
+#soda-cucumber
 
-Prerequesites
-=============
+Sode is a Selenium Node Adapter. It is a client for NodeJS for acceptane testing.
+Cucumber is a behaviour driven development tool.
+We can use Soda and Cucumber.js together to create cucumber acceptance tests for web testing in Java Script.
+
+##Prerequesites
+
 - Node.js
 - NPM
 
-Usage
-=====
-Install
--------
+##Usage
+
+###Install
+
 
 To use CucumberJS and Soda together you need to install Soda, Selenium-launcher and Cucumber.js
 
@@ -32,8 +32,8 @@ $ npm install soda
 $ npm install selenium-launcher
 ```
 
-Run
----
+###Run
+
 1. Go into the simple-server folder and run the simple-server
 $ cd simple-server
 $ serve
